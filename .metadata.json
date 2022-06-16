@@ -1,0 +1,18 @@
+[
+  {
+    "package": "ggdemetra",
+    "oncran": true
+  },
+  {
+    "package": "rjdmarkdown",
+    "oncran": true
+  },
+  {
+    "package": "rjdqa",
+    "oncran": true
+  },
+  {
+    "package": "rjwsacruncher",
+    "oncran": true
+  }
+]

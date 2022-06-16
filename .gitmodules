@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ggdemetra"]
+	path = ggdemetra
+	url = https://github.com/aqlt/ggdemetra
+	shallow = true
+	registered = true
+[submodule "rjdmarkdown"]
+	path = rjdmarkdown
+	url = https://github.com/aqlt/rjdmarkdown
+	shallow = true
+	registered = true
+[submodule "rjdqa"]
+	path = rjdqa
+	url = https://github.com/aqlt/rjdqa
+	shallow = true
+	registered = true
+[submodule "rjwsacruncher"]
+	path = rjwsacruncher
+	url = https://github.com/aqlt/rjwsacruncher
+	shallow = true
+	registered = true
