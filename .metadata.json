@@ -1,6 +1,14 @@
 [
   {
+    "package": "RJDemetra",
+    "oncran": true
+  },
+  {
     "package": "ggdemetra",
+    "oncran": true
+  },
+  {
+    "package": "rjwsacruncher",
     "oncran": true
   },
   {
@@ -12,7 +20,12 @@
     "oncran": true
   },
   {
-    "package": "rjwsacruncher",
-    "oncran": true
+    "package": "Rogctable"
+  },
+  {
+    "package": "rjd3toolkit"
+  },
+  {
+    "package": "rjd3modelling"
   }
 ]
