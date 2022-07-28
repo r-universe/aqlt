@@ -33,13 +33,3 @@
 	url = https://github.com/AQLT/Rogctable
 	shallow = true
 	registered = true
-[submodule "rjd3toolkit"]
-	path = rjd3toolkit
-	url = https://github.com/palatej/rjd3toolkit
-	shallow = true
-	registered = true
-[submodule "rjd3modelling"]
-	path = rjd3modelling
-	url = https://github.com/AQLT/rjd3modelling
-	shallow = true
-	registered = true
