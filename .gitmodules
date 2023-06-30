@@ -1,35 +1,22 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/aqlt/universe
-	shallow = true
 	branch = HEAD
 [submodule "RJDemetra"]
 	path = RJDemetra
 	url = https://github.com/jdemetra/rjdemetra
-	shallow = true
-	registered = true
 [submodule "ggdemetra"]
 	path = ggdemetra
 	url = https://github.com/AQLT/ggdemetra
-	shallow = true
-	registered = true
 [submodule "rjwsacruncher"]
 	path = rjwsacruncher
 	url = https://github.com/AQLT/rjwsacruncher
-	shallow = true
-	registered = true
 [submodule "rjdmarkdown"]
 	path = rjdmarkdown
 	url = https://github.com/AQLT/rjdmarkdown
-	shallow = true
-	registered = true
 [submodule "rjdqa"]
 	path = rjdqa
 	url = https://github.com/AQLT/rjdqa
-	shallow = true
-	registered = true
 [submodule "Rogctable"]
 	path = Rogctable
 	url = https://github.com/AQLT/Rogctable
-	shallow = true
-	registered = true
