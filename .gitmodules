@@ -5,18 +5,18 @@
 [submodule "RJDemetra"]
 	path = RJDemetra
 	url = https://github.com/jdemetra/rjdemetra
+[submodule "Rogctable"]
+	path = Rogctable
+	url = https://github.com/AQLT/Rogctable
 [submodule "ggdemetra"]
 	path = ggdemetra
 	url = https://github.com/AQLT/ggdemetra
-[submodule "rjwsacruncher"]
-	path = rjwsacruncher
-	url = https://github.com/AQLT/rjwsacruncher
 [submodule "rjdmarkdown"]
 	path = rjdmarkdown
 	url = https://github.com/AQLT/rjdmarkdown
 [submodule "rjdqa"]
 	path = rjdqa
 	url = https://github.com/AQLT/rjdqa
-[submodule "Rogctable"]
-	path = Rogctable
-	url = https://github.com/AQLT/Rogctable
+[submodule "rjwsacruncher"]
+	path = rjwsacruncher
+	url = https://github.com/AQLT/rjwsacruncher
