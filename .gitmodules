@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/aqlt/universe
+	url = https://github.com/aqlt/aqlt.r-universe.dev
 	branch = HEAD
 [submodule "RJDemetra"]
 	path = RJDemetra
