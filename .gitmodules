@@ -14,6 +14,10 @@
 [submodule "rjd3filters"]
 	path = rjd3filters
 	url = https://github.com/rjdverse/rjd3filters
+[submodule "rjd3toolkit"]
+	path = rjd3toolkit
+	url = https://github.com/rjdverse/rjd3toolkit
+	registered = false
 [submodule "rjdmarkdown"]
 	path = rjdmarkdown
 	url = https://github.com/AQLT/rjdmarkdown
