@@ -4,13 +4,16 @@
 	branch = HEAD
 [submodule "RJDemetra"]
 	path = RJDemetra
-	url = https://github.com/jdemetra/rjdemetra
+	url = https://github.com/rjdverse/rjdemetra
 [submodule "Rogctable"]
 	path = Rogctable
 	url = https://github.com/AQLT/Rogctable
 [submodule "ggdemetra"]
 	path = ggdemetra
 	url = https://github.com/AQLT/ggdemetra
+[submodule "rjd3filters"]
+	path = rjd3filters
+	url = https://github.com/rjdverse/rjd3filters
 [submodule "rjdmarkdown"]
 	path = rjdmarkdown
 	url = https://github.com/AQLT/rjdmarkdown
