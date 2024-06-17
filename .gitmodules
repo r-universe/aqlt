@@ -30,3 +30,6 @@
 [submodule "rjwsacruncher"]
 	path = rjwsacruncher
 	url = https://github.com/AQLT/rjwsacruncher
+[submodule "tvCoef"]
+	path = tvCoef
+	url = https://github.com/InseeFrLab/tvCoef
