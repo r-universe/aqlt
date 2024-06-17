@@ -1,8 +1,20 @@
 [
   {
+    "package": "rjd3sts",
+    "url": "https://github.com/rjdverse/rjd3sts",
+    "via": ["tvCoef"],
+    "from": "tvCoef"
+  },
+  {
     "package": "rjd3toolkit",
     "url": "https://github.com/rjdverse/rjd3toolkit",
     "via": ["rjd3filters"],
     "from": "rjd3filters"
+  },
+  {
+    "package": "rjd3toolkit",
+    "url": "https://github.com/rjdverse/rjd3toolkit",
+    "via": ["tvCoef"],
+    "from": "tvCoef"
   }
 ]
