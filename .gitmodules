@@ -20,6 +20,10 @@
 [submodule "rjd3filters"]
 	path = rjd3filters
 	url = https://github.com/rjdverse/rjd3filters
+[submodule "rjd3highfreq"]
+	path = rjd3highfreq
+	url = https://github.com/rjdverse/rjd3highfreq
+	registered = false
 [submodule "rjd3report"]
 	path = rjd3report
 	url = https://github.com/AQLT/rjd3report
@@ -30,6 +34,18 @@
 [submodule "rjd3toolkit"]
 	path = rjd3toolkit
 	url = https://github.com/rjdverse/rjd3toolkit
+	registered = false
+[submodule "rjd3tramoseats"]
+	path = rjd3tramoseats
+	url = https://github.com/rjdverse/rjd3tramoseats
+	registered = false
+[submodule "rjd3x11plus"]
+	path = rjd3x11plus
+	url = https://github.com/rjdverse/rjd3x11plus
+	registered = false
+[submodule "rjd3x13"]
+	path = rjd3x13
+	url = https://github.com/rjdverse/rjd3x13
 	registered = false
 [submodule "rjdmarkdown"]
 	path = rjdmarkdown
