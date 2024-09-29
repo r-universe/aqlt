@@ -14,9 +14,15 @@
 [submodule "ggdemetra"]
 	path = ggdemetra
 	url = https://github.com/AQLT/ggdemetra
+[submodule "ggdemetra3"]
+	path = ggdemetra3
+	url = https://github.com/AQLT/ggdemetra3
 [submodule "rjd3filters"]
 	path = rjd3filters
 	url = https://github.com/rjdverse/rjd3filters
+[submodule "rjd3report"]
+	path = rjd3report
+	url = https://github.com/AQLT/rjd3report
 [submodule "rjd3sts"]
 	path = rjd3sts
 	url = https://github.com/rjdverse/rjd3sts
