@@ -38,6 +38,12 @@
   {
     "package": "rjd3toolkit",
     "url": "https://github.com/rjdverse/rjd3toolkit",
+    "via": ["rjd3report"],
+    "from": "rjd3report"
+  },
+  {
+    "package": "rjd3toolkit",
+    "url": "https://github.com/rjdverse/rjd3toolkit",
     "via": ["tvCoef"],
     "from": "tvCoef"
   },
@@ -46,6 +52,12 @@
     "url": "https://github.com/rjdverse/rjd3tramoseats",
     "via": ["ggdemetra3"],
     "from": "ggdemetra3"
+  },
+  {
+    "package": "rjd3tramoseats",
+    "url": "https://github.com/rjdverse/rjd3tramoseats",
+    "via": ["rjd3report"],
+    "from": "rjd3report"
   },
   {
     "package": "rjd3x11plus",
@@ -58,5 +70,11 @@
     "url": "https://github.com/rjdverse/rjd3x13",
     "via": ["ggdemetra3"],
     "from": "ggdemetra3"
+  },
+  {
+    "package": "rjd3x13",
+    "url": "https://github.com/rjdverse/rjd3x13",
+    "via": ["rjd3report"],
+    "from": "rjd3report"
   }
 ]
