@@ -12,6 +12,12 @@
     "from": "ggdemetra3"
   },
   {
+    "package": "rjd3providers",
+    "url": "https://github.com/rjdverse/rjd3providers",
+    "via": ["rjd3workspace"],
+    "from": "rjd3workspace"
+  },
+  {
     "package": "rjd3sts",
     "url": "https://github.com/rjdverse/rjd3sts",
     "via": ["ggdemetra3", "rjd3highfreq"],
@@ -50,6 +56,12 @@
   {
     "package": "rjd3toolkit",
     "url": "https://github.com/rjdverse/rjd3toolkit",
+    "via": ["rjd3workspace"],
+    "from": "rjd3workspace"
+  },
+  {
+    "package": "rjd3toolkit",
+    "url": "https://github.com/rjdverse/rjd3toolkit",
     "via": ["tvCoef"],
     "from": "tvCoef"
   },
@@ -64,6 +76,12 @@
     "url": "https://github.com/rjdverse/rjd3tramoseats",
     "via": ["rjd3report"],
     "from": "rjd3report"
+  },
+  {
+    "package": "rjd3tramoseats",
+    "url": "https://github.com/rjdverse/rjd3tramoseats",
+    "via": ["rjd3workspace"],
+    "from": "rjd3workspace"
   },
   {
     "package": "rjd3x11plus",
@@ -82,5 +100,11 @@
     "url": "https://github.com/rjdverse/rjd3x13",
     "via": ["rjd3report"],
     "from": "rjd3report"
+  },
+  {
+    "package": "rjd3x13",
+    "url": "https://github.com/rjdverse/rjd3x13",
+    "via": ["rjd3workspace"],
+    "from": "rjd3workspace"
   }
 ]
