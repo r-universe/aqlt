@@ -1,15 +1,33 @@
 [
   {
+    "package": "ggdemetra3",
+    "url": "https://github.com/AQLT/ggdemetra3",
+    "via": ["rjd3report"],
+    "from": "rjd3report"
+  },
+  {
     "package": "rjd3filters",
     "url": "https://github.com/rjdverse/rjd3filters",
     "via": ["ggdemetra3", "rjd3x11plus"],
     "from": "ggdemetra3"
   },
   {
+    "package": "rjd3filters",
+    "url": "https://github.com/rjdverse/rjd3filters",
+    "via": ["rjd3report", "ggdemetra3", "rjd3x11plus"],
+    "from": "rjd3report"
+  },
+  {
     "package": "rjd3highfreq",
     "url": "https://github.com/rjdverse/rjd3highfreq",
     "via": ["ggdemetra3"],
     "from": "ggdemetra3"
+  },
+  {
+    "package": "rjd3highfreq",
+    "url": "https://github.com/rjdverse/rjd3highfreq",
+    "via": ["rjd3report", "ggdemetra3"],
+    "from": "rjd3report"
   },
   {
     "package": "rjd3highfreq",
@@ -28,6 +46,12 @@
     "url": "https://github.com/rjdverse/rjd3sts",
     "via": ["ggdemetra3", "rjd3highfreq"],
     "from": "ggdemetra3"
+  },
+  {
+    "package": "rjd3sts",
+    "url": "https://github.com/rjdverse/rjd3sts",
+    "via": ["rjd3report", "ggdemetra3", "rjd3highfreq"],
+    "from": "rjd3report"
   },
   {
     "package": "rjd3sts",
@@ -136,6 +160,12 @@
     "url": "https://github.com/rjdverse/rjd3x11plus",
     "via": ["ggdemetra3"],
     "from": "ggdemetra3"
+  },
+  {
+    "package": "rjd3x11plus",
+    "url": "https://github.com/rjdverse/rjd3x11plus",
+    "via": ["rjd3report", "ggdemetra3"],
+    "from": "rjd3report"
   },
   {
     "package": "rjd3x13",
