@@ -18,6 +18,12 @@
     "from": "rjd3report"
   },
   {
+    "package": "rjd3filters",
+    "url": "https://github.com/rjdverse/rjd3filters",
+    "via": ["rjd3x11plus"],
+    "from": "rjd3x11plus"
+  },
+  {
     "package": "rjd3highfreq",
     "url": "https://github.com/rjdverse/rjd3highfreq",
     "via": ["ggdemetra3"],
@@ -124,6 +130,12 @@
     "url": "https://github.com/rjdverse/rjd3toolkit",
     "via": ["rjd3workspace"],
     "from": "rjd3workspace"
+  },
+  {
+    "package": "rjd3toolkit",
+    "url": "https://github.com/rjdverse/rjd3toolkit",
+    "via": ["rjd3x11plus"],
+    "from": "rjd3x11plus"
   },
   {
     "package": "rjd3toolkit",
