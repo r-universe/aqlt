@@ -17,6 +17,9 @@
 [submodule "ggdemetra3"]
 	path = ggdemetra3
 	url = https://github.com/AQLT/ggdemetra3
+[submodule "publishTC"]
+	path = publishTC
+	url = https://github.com/AQLT/publishTC
 [submodule "rjd3bench"]
 	path = rjd3bench
 	url = https://github.com/rjdverse/rjd3bench
