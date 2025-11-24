@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/aqlt/aqlt.r-universe.dev
 	branch = HEAD
+[submodule "AQLTools"]
+	path = AQLTools
+	url = https://github.com/AQLT/AQLTools
 [submodule "Avionic24"]
 	path = Avionic24
 	url = https://github.com/InseeFrLab/Avionic24
