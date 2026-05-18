@@ -5,6 +5,9 @@
 [submodule "AQLTools"]
 	path = AQLTools
 	url = https://github.com/AQLT/AQLTools
+[submodule "AQLTrainings"]
+	path = AQLTrainings
+	url = https://github.com/AQLT/AQLTrainings
 [submodule "Avionic24"]
 	path = Avionic24
 	url = https://github.com/InseeFrLab/Avionic24
