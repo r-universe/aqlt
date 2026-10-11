@@ -29,6 +29,9 @@
 [submodule "rjd3bench"]
 	path = rjd3bench
 	url = https://github.com/rjdverse/rjd3bench
+[submodule "rjd3bridge"]
+	path = rjd3bridge
+	url = https://github.com/AQLT/rjd3bridge
 [submodule "rjd3filters"]
 	path = rjd3filters
 	url = https://github.com/rjdverse/rjd3filters
