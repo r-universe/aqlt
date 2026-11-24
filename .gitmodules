@@ -17,6 +17,9 @@
 [submodule "Rogctable"]
 	path = Rogctable
 	url = https://github.com/AQLT/Rogctable
+[submodule "chainlink"]
+	path = chainlink
+	url = https://github.com/AQLT/chainlink
 [submodule "fable.rjd3"]
 	path = fable.rjd3
 	url = https://github.com/AQLT/fable.rjd3
